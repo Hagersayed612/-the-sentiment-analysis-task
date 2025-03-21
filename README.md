@@ -11,7 +11,7 @@ NLTK (for text preprocessing)
 Logistic Regression
 
 🚀 How to Run the Project
- https://www.kaggle.com/code/hhagersayed/the-sentiment-analysis-task/edit
+ https://www.kaggle.com/code/hhagersayed/the-sentiment-analysis-task
 3️⃣ Run the Model on a Sample Review
 python main.py --review "I love this product! It's amazing."
 🔍 Example Output
